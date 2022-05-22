@@ -1,0 +1,11 @@
+# --> Walls
+0 --> Empty Spaces
+@ --> player
+$ --> Crates
+. --> True place of crates
+* --> Crate in its true place.
+
+---------------
+1) i = rows = playerY; j = Columns = playerX
+2) first number is row, 2nd no is cols.
+---------------
